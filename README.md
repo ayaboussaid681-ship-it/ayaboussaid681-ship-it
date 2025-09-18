@@ -29,14 +29,9 @@ Projet 3 : Une brève description du projet (ex: visualisation de données scien
 
 📫 Me contacter
 
-📧 Email : your-email@example.com
+📧 Email : yayaboussaid681@gmail.com
 
-🌐 Site web : yourwebsite.com
-
-🐦 Twitter : @yourusername
-
-💼 LinkedIn : Votre profil LinkedIn
-
+💼 LinkedIn : ayaboussaid681@gmail.com
 📝 Articles & Blog
 
 Découvrez mes articles autour de la tech, l’IA, et l’apprentissage :
