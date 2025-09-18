@@ -1,16 +1,59 @@
-## Hi there 👋
+🧠 Profil – Étudiant en Classe Préparatoire
+🚀 Technologies & Outils
 
-<!--
-**ayaboussaid681-ship-it/ayaboussaid681-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Langages : Python 🐍, JavaScript 🌐, C++ 💻
+Frameworks : Django 🌟, React ⚛️ (en cours d’apprentissage)
+Outils : Git 🦸, Docker 🐳, VSCode 💻
 
-Here are some ideas to get you started:
+👤 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Statut : Étudiant en classe préparatoire scientifique
+
+🌍 Localisation : Tunisie
+
+📚 Centres d’intérêt : Intelligence Artificielle 🤖, Data Science 📊, Projets open-source 🌍
+
+🛠️ Objectif : Intégrer une école d’ingénieur/informatique et contribuer à des projets concrets
+
+📂 Projets personnels
+
+Voici quelques projets que j’ai réalisés pendant mon temps libre :
+
+Projet 1 : Une brève description du projet (ex: système de recommandation en Python).
+
+Projet 2 : Une brève description du projet (ex: mini-site web avec React).
+
+Projet 3 : Une brève description du projet (ex: visualisation de données scientifiques).
+
+💡 Je développe mes compétences en autodidacte en parallèle de mes études.
+
+📫 Me contacter
+
+📧 Email : your-email@example.com
+
+🌐 Site web : yourwebsite.com
+
+🐦 Twitter : @yourusername
+
+💼 LinkedIn : Votre profil LinkedIn
+
+📝 Articles & Blog
+
+Découvrez mes articles autour de la tech, l’IA, et l’apprentissage :
+
+Article 1 : Résumé rapide de l’article (ex: "Introduction à l’IA pour débutants").
+
+Article 2 : Résumé rapide de l’article (ex: "Comment j’ai appris Git en 1 semaine").
+
+📈 GitHub
+
+📊 Statistiques GitHub de Dr. Omrani Mohamed Amine (alias futur ingénieur 💪)
+(à personnaliser avec un widget GitHub si tu veux l’afficher)
+
+🎯 Objectifs
+
+🌟 Contribuer à des projets open-source
+
+🛠️ Créer des outils utiles en IA ou data
+
+📚 Intégrer une grande école et continuer à apprendre et progresser dans la tech
